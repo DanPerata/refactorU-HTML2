@@ -1,4 +1,36 @@
-TABLE{
-
-	table,th,td
+body{
+	width: 70%;
+	margin: 0 auto;
+	background-color: #C299FF;
 }
+
+header{
+	background-color: #2ecc71;
+	height: 15em;
+	color: #FFF;
+	text-align: right;
+
+
+}
+
+nav{
+	background-color: #34495e;
+	height: 5em;
+	color: #FFF;
+	
+
+}
+
+nav li{
+	display: inline;
+	text-align: right;
+}
+
+aside{
+	background-color: #E6E6B8;
+}
+
+#section1{
+	background-color: #E6E6B8;
+
+}  
